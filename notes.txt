@@ -1,0 +1,1 @@
+use indra's ad extension as an example
